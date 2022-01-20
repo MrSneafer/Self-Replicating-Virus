@@ -9,7 +9,6 @@ location = r'C:\Users\{0}\Desktop\Virus\\'.format(user)
 Note: Format Should be 'C:\Users\{}\Desktop\"Folder Name"\\'
 
 
-
 for n in range(1000):
 
 *You can add any amount you wish. Time consumtion will depend on the amount.
